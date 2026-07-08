@@ -34,3 +34,6 @@ Technical Stacks Based On:
 → GitHub Stats⛈️
 
 
+![Snake animation](https://github.com/Sathya-off/Sathya-off/blob/output/github-snake.svg)
+
+
