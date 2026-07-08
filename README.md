@@ -31,7 +31,6 @@ Technical Stacks Based On:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
 
 
->>>> GitHub Stats⛈️
-![GitHub Streak](https://streak-stats.demolab.com?user=SATHYA_RG&theme=tokyonight)
+→ GitHub Stats⛈️
+.github/workflows/snake.yml
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SATHYA_RG&theme=tokyonight)
