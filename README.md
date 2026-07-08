@@ -26,6 +26,6 @@ Check out my Profiles:
 
 </p>
 
-
+Technical Stacks Based On:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
