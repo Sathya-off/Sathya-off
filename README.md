@@ -32,5 +32,5 @@ Technical Stacks Based On:
 
 
 → GitHub Stats⛈️
-.github/workflows/snake.yml
+snake.yml
 
