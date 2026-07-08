@@ -33,3 +33,5 @@ Technical Stacks Based On:
 
 >>>> GitHub Stats⛈️
 ![GitHub Streak](https://streak-stats.demolab.com?user=SATHYA_RG&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SATHYA_RG&theme=tokyonight)
