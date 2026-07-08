@@ -32,5 +32,4 @@ Technical Stacks Based On:
 
 
 >>>> GitHub Stats⛈️
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathyaRG&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=SATHYA_RG&theme=tokyonight)
