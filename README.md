@@ -29,3 +29,8 @@ Check out my Profiles:
 Technical Stacks Based On:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
+
+
+>>>> GitHub Stats⛈️
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathyaRG&show_icons=true&theme=tokyonight)
