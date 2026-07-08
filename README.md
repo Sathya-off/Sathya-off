@@ -10,3 +10,16 @@ Software Engineer | AI Developer | Java Programmer
 - 🤖 Building AI Projects
 - 💻 Final Year ECE Student
 - 🚀 Open to Software Engineer Roles
+
+
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathya-r-5b3964316">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:sathya93452@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
