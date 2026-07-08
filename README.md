@@ -13,6 +13,8 @@ Software Engineer | AI Developer | Java Programmer
 
 
 
+Check out my Profiles:
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sathya-r-5b3964316">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -23,3 +25,7 @@ Software Engineer | AI Developer | Java Programmer
 </a>
 
 </p>
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
