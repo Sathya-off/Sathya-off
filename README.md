@@ -2,6 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:8A2BE2&height=220&section=header&text=Sathya%20R%20G&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<h2 align="center">
+  <font color="#6EA8FE">
+    Open to Software / Java / SQL
+  </font>
+</h2>
+
+
 Hi 👋 I'm Sathya R
 
 Software Engineer | AI Developer | Java Programmer
