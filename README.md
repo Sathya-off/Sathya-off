@@ -118,5 +118,5 @@ print(me.motto())
 </tr>
 </table>
 
-<img src="https://leetcard.jacoblin.cool/CodeBruce?theme=dark&font=Karma"/>
+<img src="https://leetcard.jacoblin.cool/Sathya RG?theme=dark&font=Karma"/>
 
