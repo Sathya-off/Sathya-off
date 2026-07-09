@@ -120,3 +120,13 @@ print(me.motto())
 </tr>
 </table>
 
+
+## 🎓 Education
+
+| 🎓 **Degree** | 🏫 **Institution** | 📅 **Year** | 📊 **Score** |
+|:-------------|:-------------------|:-----------:|:------------:|
+| **B.E. Electronics & Communication Engineering** | **VSB Engineering College, Karur** | **2023 – Present** | **CGPA: 8.0** |
+| **Higher Secondary Certificate (HSC)** | **Shri Renuga Vidhyalayam Matric Hr.sec.School, Theni** | **2022 – 2023** | **86%** |
+| **Secondary School Leaving Certificate (SSLC)** | **Shri Renuga Vidhyalayam Matric Hr.sec.School, Thenir** | **2020 – 2021** | **86%** |
+
+
