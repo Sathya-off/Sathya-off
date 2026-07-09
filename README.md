@@ -80,3 +80,41 @@ print(me.motto())
 </tr>
 </table>
 
+<h2>🧩 Coding Profiles & Problem Solving</h2>
+
+<table>
+<tr>
+<th>LeetCode</th>
+<th>HackerRank</th>
+<th>NeetCode</th>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://leetcode.com/u/SATHYA RG/">
+<img src="https://leetcard.jacoblin.cool/SATHYA RG?theme=dark&font=Karma" width="500"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.hackerrank.com/SATHYA RG">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://neetcode.io/profile/SATHYA RG">
+<img src="https://img.shields.io/badge/NeetCode-SATHYA RG-black?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
