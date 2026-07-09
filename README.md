@@ -35,7 +35,9 @@ Technical Stacks Based On:
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="300"/>
 
-<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUyczZjZWFoY2cyZTJ6N21xM2ZiczB6M3lteGNqamRpZGxhZGc4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy.gif width="100%">
+<table>
+<tr>
+<td width="55%">
 
 ```python
 class Sathya:
@@ -70,5 +72,13 @@ me = Sathya()
 print(me.motto())
 ```
 
+</td>
 
+<td width="45%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTFncjZ5ZGpraWIxZWJ6eWcyOW9maHdmdXF0czVib2pmcTYxYmY2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i1JHRZSXO9LZZDHqii/giphy.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
