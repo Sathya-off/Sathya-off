@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:8A2BE2&height=220&section=header&text=Sathya%20R%20G&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Sathya%20R%20G&fontSize=60&fontAlignY=38&desc=B.E.%20Electronics%20%26%20Communication%20Engineering&descAlignY=60&descAlign=50)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&repeat=true&width=950&lines=☕+Java+Software+Developer;🗄️+SQL+Enthusiast;🚀+Ready+to+Build+New+Projects;💡+Passionate+Problem+Solver;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
