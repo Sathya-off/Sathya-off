@@ -31,9 +31,7 @@ Technical Stacks Based On:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
 
 
-→ GitHub Stats⛈️
 
 
-![Snake animation](https://github.com/Sathya-off/Sathya-off/blob/output/github-snake.svg)
 
 
