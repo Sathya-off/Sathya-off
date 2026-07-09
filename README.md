@@ -97,6 +97,10 @@ print(me.motto())
 <img src="https://leetcard.jacoblin.cool/CodeBruce?theme=dark&font=Karma"/>
 </a>
 
+<a href="https://leetcode.com/u/CodeBruce/">
+  <img src="https://leetcard.jacoblin.cool/CodeBruce?theme=dark&ext=heatmap" />
+</a>
+
 </td>
 
 <td align="center">
