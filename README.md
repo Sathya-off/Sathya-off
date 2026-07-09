@@ -35,6 +35,7 @@ Technical Stacks Based On:
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="300"/>
 
+<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUyczZjZWFoY2cyZTJ6N21xM2ZiczB6M3lteGNqamRpZGxhZGc4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy.gif width="100%">
 
 ```python
 class Sathya:
