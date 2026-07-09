@@ -37,27 +37,23 @@ class Sathya:
 
     def __init__(self):
         self.name = "Sathya R"
-        self.location = "Karur, Tamil Nadu, India"
+        self.location = "Theni, Tamil Nadu, India"
         self.degree = "B.E. Electronics & Communication Engineering"
         self.college = "VSB Engineering College, Karur"
-        self.cgpa = "8.2"
+        self.cgpa = "8.0"
 
         self.stack = [
             "Java",
-            "Spring Boot",
             "HTML",
             "CSS",
             "JavaScript",
-            "React",
             "MongoDB",
-            "MySQL",
             "Git",
             "GitHub"
         ]
 
         self.currently_learning = [
             "Java Full Stack",
-            "Spring Boot",
             "AI & LLMs",
             "DSA"
         ]
