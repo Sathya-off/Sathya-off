@@ -32,7 +32,7 @@ Technical Stacks Based On:
 
 👨‍💻 About Me
 
-class Nishwa:
+class Sathya:
     def __init__(self):
         self.name        = "Sathya R"
         self.location    = "Theni, Tamil Nadu, India"
