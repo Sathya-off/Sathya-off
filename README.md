@@ -30,6 +30,10 @@ Technical Stacks Based On:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
 
+<p align="center">
+  <img src="https://github.com/Sathya-off/Sathya-off/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
 
 
 
