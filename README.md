@@ -93,10 +93,6 @@ print(me.motto())
 
 <td align="center">
 
-<a href="https://leetcode.com/u/SATHYA RG/">
-<img src="https://leetcard.jacoblin.cool/CodeBruce?theme=dark&font=Karma"/>
-</a>
-
 <a href="https://leetcode.com/u/CodeBruce/">
   <img src="https://leetcard.jacoblin.cool/CodeBruce?theme=dark&ext=heatmap" />
 </a>
