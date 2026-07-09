@@ -64,6 +64,11 @@ class Sathya:
 me = Sathya()
 print(me.motto())
 ```
+<table>
+<tr>
+<td width="60%">
 
+```python
+# Your code here
 
 
