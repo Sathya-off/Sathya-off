@@ -7,14 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&repeat=true&width=950&lines=🎓+ECE+Student;☕+Java+Software+Developer;🗄️+SQL+Enthusiast;🚀+Ready+to+Build+New+Projects;💡+Passionate+Problem+Solver;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-Hi 👋 I'm Sathya R
-
-Software Engineer | AI Developer | Java Programmer
-
-- 🌱 Learning Java Full Stack
-- 🤖 Building AI Projects
-- 💻 Final Year ECE Student
-- 🚀 Open to Software Engineer Roles
+<h1>Hey There! 👋</h1>
+────────────────────────────────────────────
+I'm Sathya R G — a final-year B.E. Electronics &
+Communication Engineering student passionate
+about Java Software Development, SQL, and
+Problem Solving...
 
 
 
