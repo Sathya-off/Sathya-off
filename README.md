@@ -33,8 +33,6 @@ Technical Stacks Based On:
 ## 👨‍💻 About Me
 
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="300"/>
-
 <table>
 <tr>
 <td width="55%">
