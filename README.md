@@ -11,10 +11,7 @@
 ────────────────────────────────────────────
 
 
-I'm Sathya R G — a final-year B.E. Electronics &
-Communication Engineering student passionate
-about Java Software Development, SQL, and
-Problem Solving...
+I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering** student with a strong passion for **Java Software Development**, **SQL**, and **Problem Solving**. I enjoy transforming ideas into practical software solutions by building clean, efficient, and user-friendly applications. I continuously strengthen my knowledge of Data Structures and Algorithms, explore modern development practices, and work on real-world projects to enhance my technical skills. With a growth mindset and a commitment to continuous learning, I'm always ready to take on new challenges, collaborate with others, and contribute to innovative software development projects. 🚀
 
 
 
