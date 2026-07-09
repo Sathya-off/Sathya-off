@@ -94,7 +94,7 @@ print(me.motto())
 <td align="center">
 
 <a href="https://leetcode.com/u/SATHYA RG/">
-<img src="https://leetcard.jacoblin.cool/SATHYA RG?theme=dark&font=Karma" width="500"/>
+<img src="https://leetcard.jacoblin.cool/CodeBruce?theme=dark&font=Karma"/>
 </a>
 
 </td>
@@ -117,6 +117,4 @@ print(me.motto())
 
 </tr>
 </table>
-
-<img src="https://leetcard.jacoblin.cool/Sathya R?theme=dark&font=Karma"/>
 
