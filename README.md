@@ -2,11 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:8A2BE2&height=220&section=header&text=Sathya%20R%20G&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">
-  <font color="#6EA8FE">
-    Open to Software / Java / SQL
-  </font>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=🚀+Open+to+Software+Development;☕+Java+Developer;🌱+Always+Learning+New+Technologies" />
+</p>
 
 
 Hi 👋 I'm Sathya R
