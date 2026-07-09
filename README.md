@@ -30,11 +30,38 @@ Technical Stacks Based On:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github.com/Sathya-off/Sathya-off/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+👨‍💻 About Me
 
+class Nishwa:
+    def __init__(self):
+        self.name        = "Sathya R"
+        self.location    = "Theni, Tamil Nadu, India"
+        self.degree      = "B.E. Electronics & Communication Engineering"
+        self.college     = "VSB Engineering College, Karur"
+        self.cgpa        = 8.0
 
+        self.stack = [
+            "HTML5", "CSS3", "JavaScript",
+            "Java","SQl"
+        ]
+
+        self.currently_learning = [
+            "React.js",
+            "REST APIs with Django",
+            "Data Structures & Algorithms",
+            "System Design basics"
+        ]
+
+        self.fun_fact = (
+            "I organised a Java seminar for my peers "
+            "because teaching is the best way to learn! 🎓"
+        )
+
+    def motto(self):
+        return "Build. Break. Learn. Repeat. 🚀"
+
+me = Sathya()
+print(me.motto())
 
 
 
