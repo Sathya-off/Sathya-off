@@ -32,6 +32,10 @@ Technical Stacks Based On:
 
 ## 👨‍💻 About Me
 
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="300"/>
+
+
 ```python
 class Sathya:
 
@@ -64,11 +68,6 @@ class Sathya:
 me = Sathya()
 print(me.motto())
 ```
-<table>
-<tr>
-<td width="60%">
 
-```python
-# Your code here
 
 
