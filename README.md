@@ -30,39 +30,44 @@ Technical Stacks Based On:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
+```python
 class Sathya:
+
     def __init__(self):
-        self.name        = "Sathya R"
-        self.location    = "Theni, Tamil Nadu, India"
-        self.degree      = "B.E. Electronics & Communication Engineering"
-        self.college     = "VSB Engineering College, Karur"
-        self.cgpa        = 8.0
+        self.name = "Sathya R"
+        self.location = "Karur, Tamil Nadu, India"
+        self.degree = "B.E. Electronics & Communication Engineering"
+        self.college = "VSB Engineering College, Karur"
+        self.cgpa = "8.2"
 
         self.stack = [
-            "HTML5", "CSS3", "JavaScript",
-            "Java","SQl"
+            "Java",
+            "Spring Boot",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "MongoDB",
+            "MySQL",
+            "Git",
+            "GitHub"
         ]
 
         self.currently_learning = [
-            "React.js",
-            "REST APIs with Django",
-            "Data Structures & Algorithms",
-            "System Design basics"
+            "Java Full Stack",
+            "Spring Boot",
+            "AI & LLMs",
+            "DSA"
         ]
 
-        self.fun_fact = (
-            "I organised a Java seminar for my peers "
-            "because teaching is the best way to learn! 🎓"
-        )
-
     def motto(self):
-        return "Build. Break. Learn. Repeat. 🚀"
+        return "Code. Learn. Build. Repeat. 🚀"
 
 me = Sathya()
 print(me.motto())
-
+```
 
 
 
