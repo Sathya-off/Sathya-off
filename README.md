@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=24&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&repeat=true&width=700&lines=Open+to+Software+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=24&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&repeat=true&width=850&lines=💼+Open+to+Software+Roles;⚡+Problem+Solver;💻+Java+%7C;;🌱+Building+Projects+Every+Day" alt="Typing SVG" />
 </p>
-
 
 Hi 👋 I'm Sathya R
 
