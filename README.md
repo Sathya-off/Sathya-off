@@ -130,6 +130,8 @@ github stats
 </tr>
 </table>
 
+.github/workflows/pacman.yml
+
 
 ## 🎓 Education
 
