@@ -71,6 +71,9 @@ class Sathya:
 me = Sathya()
 print(me.motto())
 ```
+GitHub Stats🎈
+
+![GitHub Ludo Stats](./ludo-github-stats.svg)
 
 </td>
 
