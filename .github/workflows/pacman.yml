@@ -27,6 +27,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          git add .github/workflows/pacman.yml
-git commit -m "Add Pac-Man workflow"
-git push origin main
+   
