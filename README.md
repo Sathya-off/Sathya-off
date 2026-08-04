@@ -121,6 +121,10 @@ print(me.motto())
 </table>
 
 
+![GitHub Ludo Stats](./ludo-github-stats.svg)
+
+
+
 ## 🎓 Education
 
 | 🎓 **Degree** | 🏫 **Institution** | 📅 **Year** | 📊 **Score** |
