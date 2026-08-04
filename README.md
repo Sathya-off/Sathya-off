@@ -72,7 +72,6 @@ me = Sathya()
 print(me.motto())
 ```
 
-github stats
 
 <p align="center">
   <picture>
@@ -130,7 +129,9 @@ github stats
 </tr>
 </table>
 
-.github/workflows/pacman.yml
+Github Stats
+
+![GitHub Ludo Stats](./ludo-github-stats.svg)
 
 
 ## 🎓 Education
