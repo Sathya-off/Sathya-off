@@ -6,11 +6,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&repeat=true&width=1100&lines=🎓+B.E.+Electronics+%26+Communication+Engineering+Student;💻+Aspiring+Java+Software+Developer;🗄️+SQL+Enthusiast;🚀+Ready+to+Build+Innovative+Projects;🧩+Passionate+Problem+Solver;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
+
+
+
 <h1>Hello Folks! 👋</h1>
 ────────────────────────────────────────────
 
 
 I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering** student with a strong passion for **Java Software Development**, **SQL**, and **Problem Solving**. I enjoy transforming ideas into practical software solutions by building clean, efficient, and user-friendly applications. I continuously strengthen my knowledge of Data Structures and Algorithms, explore modern development practices, and work on real-world projects to enhance my technical skills. With a growth mindset and a commitment to continuous learning, I'm always ready to take on new challenges, collaborate with others, and contribute to innovative software development projects. 🚀
+
+
+
+<img
+  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+  alt="Coding Boy"
+  width="100%">
 
 
 Check out my Profiles:
