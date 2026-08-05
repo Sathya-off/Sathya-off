@@ -2,11 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Sathya%20R&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20AI%20Explorer%20|%20Open%20Source%20Learner&descAlignY=60&descSize=22"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&repeat=true&width=1100&lines=🎓+B.E.+Electronics+%26+Communication+Engineering+Student;💻+Aspiring+Java+Software+Developer;🗄️+SQL+Enthusiast;🚀+Ready+to+Build+Innovative+Projects;🧩+Passionate+Problem+Solver;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
-
 
 
 <h1>Hello Folks! 👋</h1>
@@ -17,10 +12,12 @@ I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering*
 
 
 
-<img
-  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-  alt="Coding Boy"
-  width="100%">
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    alt="Coding Boy"
+    width="40%">
+</p>
 
 
 Check out my Profiles:
@@ -39,59 +36,6 @@ Check out my Profiles:
 Technical Stacks Based On:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
-
-## 👨‍💻 About Me
-
-
-<table>
-<tr>
-<td width="55%">
-  
-```java
-public class Sathya {
-
-    String name = "Sathya R";
-    String role = "Java Full Stack Developer";
-    String location = "Theni, Tamil Nadu, India";
-
-    String[] languages = {
-            "Java",
-            "JavaScript",
-            "HTML",
-            "CSS"
-    };
-
-    String[] tools = {
-            "Git",
-            "GitHub",
-            "MongoDB",
-            "VS Code",
-            "IntelliJ IDEA"
-    };
-
-    String[] learning = {
-            "Spring Boot",
-            "DSA",
-            "AI & LLMs"
-    };
-
-    String motto() {
-        return "Code. Learn. Build. Repeat. 🚀";
-    }
-
-    public static void main(String[] args) {
-        Sathya me = new Sathya();
-
-        System.out.println("👋 Hi, I'm " + me.name);
-        System.out.println("💼 Role: " + me.role);
-        System.out.println("📍 Location: " + me.location);
-        System.out.println("💡 " + me.motto());
-    }
-}
-```
-
-
-
 
 
 
@@ -116,7 +60,7 @@ public class Sathya {
 
 <td align="center">
 
-<a href="https://www.hackerrank.com/SATHYA RG">
+<a href="https://www.hackerrank.com/profile/sathya93452">
 <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -124,7 +68,7 @@ public class Sathya {
 
 <td align="center">
 
-<a href="https://neetcode.io/profile/SATHYA RG">
+<a href="hhttps://neetcode.io/user/SilentSupernova636G">
 <img src="https://img.shields.io/badge/NeetCode-SATHYA RG-black?style=for-the-badge"/>
 </a>
 
