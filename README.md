@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:8A2BE2&height=220&section=header&text=Sathya%20R%20G&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Sathya%20R&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20AI%20Explorer%20|%20Open%20Source%20Learner&descAlignY=60&descSize=22"/>
 </p>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&repeat=true&width=1100&lines=🎓+B.E.+Electronics+%26+Communication+Engineering+Student;💻+Aspiring+Java+Software+Developer;🗄️+SQL+Enthusiast;🚀+Ready+to+Build+Innovative+Projects;🧩+Passionate+Problem+Solver;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
