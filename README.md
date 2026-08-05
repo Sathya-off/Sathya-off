@@ -15,9 +15,9 @@ I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering*
 
 
 
-Check out my Profiles:
+                                                                              Check out my Profiles:
 
-<p align="left">
+<p align="centre">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sathya-r-5b3964316">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -132,9 +132,6 @@ Github Stats
 
 ![GitHub Ludo Stats](./ludo-github-stats.svg)
 
-<p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman-contribution-graph.svg">
-</p>
 
 
 ## 🎓 Education
