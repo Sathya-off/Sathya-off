@@ -72,23 +72,6 @@ me = Sathya()
 print(me.motto())
 ```
 
-Git Status>>>>>>All Day🎈
-
-<h2>🚀 Beyond Software</h2>
-
-<p>
-I enjoy building useful things, bringing people together, and making complex experiences feel simple.
-</p>
-
-<div align="center">
-  <img
-    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
-    alt="Pixel Animation"
-    width="100%"
-  />
-</div>
-
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/pacman-contribution-graph-dark.svg">
