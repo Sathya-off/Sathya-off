@@ -71,6 +71,11 @@ class Sathya:
 me = Sathya()
 print(me.motto())
 ```
+>>Github Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sathya-off&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
 
 <p align="center">
   <picture>
