@@ -132,16 +132,8 @@ Github Stats
 
 ![GitHub Ludo Stats](./ludo-github-stats.svg)
 
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph"
-      src="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/pacman-contribution-graph.svg">
-  </picture>
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman-contribution-graph.svg">
 </p>
 
 
