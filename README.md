@@ -18,19 +18,19 @@ I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering*
 </p>
 
 <h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in//" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sathya-r-5b3964316//" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" />
   </a>
 
-   <p align="center">
   <a href="mailto:sathya93452@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="48" />
   </a>
 
-   <p align="center">
+
   <a href="https://www.instagram.com/sathya__off/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="48" />
   </a>
 </p>
 
