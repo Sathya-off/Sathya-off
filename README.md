@@ -151,5 +151,7 @@ Github Stats
 | **Secondary School Leaving Certificate (SSLC)** | **Shri Renuga Vidhyalayam Matric Hr.sec.School, Thenir** | **2020 – 2021** | **86%** |
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=14,17,19,20" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=6,11,20,24,30"/>
+</p>
 
