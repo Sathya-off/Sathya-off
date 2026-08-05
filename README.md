@@ -82,6 +82,9 @@ public class Sathya {
 
 
 
+
+
+
 <h2>🧩 Coding Profiles & Problem Solving</h2>
 
 <table>
@@ -121,10 +124,32 @@ public class Sathya {
 </table>
 
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sathya-off&theme=tokyonight">
-</p>
 
+<table>
+<tr>
+
+<td width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/github-contribution-grid-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/github-contribution-grid-snake.svg">
+</picture>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
+
+</td>
+
+</tr>
+</table>
 
 Github Stats
 
