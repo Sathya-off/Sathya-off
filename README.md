@@ -80,7 +80,7 @@ public class Sathya {
 }
 ```
 
-https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif
+
 
 <h2>🧩 Coding Profiles & Problem Solving</h2>
 
@@ -119,6 +119,12 @@ https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif
 
 </tr>
 </table>
+
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sathya-off&theme=tokyonight">
+</p>
+
 
 Github Stats
 
