@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Sathya%20R&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20AI%20Explorer%20|%20Open%20Source%20Learner&descAlignY=60&descSize=22"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=195&text=Sathya%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20|%20AI%20Explorer%20|%20Open%20Source&descSize=19&descAlignY=58&color=gradient&customColorList=12,20,24,30"/>
 </p>
-
-
 
 <h1>Hello Folks! 👋</h1>
 ────────────────────────────────────────────
@@ -19,25 +17,28 @@ I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering*
     width="40%">
 </p>
 
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in//" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 
-Check out my Profiles:
+   <p align="center">
+  <a href="mailto:sathya93452@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathya-r-5b3964316">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:sathya93452@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+   <p align="center">
+  <a href="https://www.instagram.com/sathya__off/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </p>
 
-Technical Stacks Based On:
+<h2 align="center">⚡ Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,vscode)](https://skillicons.dev)
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,git,github,vscode,postman,linux&theme=dark&perline=6" />
+</p>
 
 <h2>🧩 Coding Profiles & Problem Solving</h2>
 
@@ -79,11 +80,6 @@ Technical Stacks Based On:
 
 
 
-Github Stats
-
-![GitHub Ludo Stats](./ludo-github-stats.svg)
-
-
 
 ## 🎓 Education
 
@@ -93,8 +89,6 @@ Github Stats
 | **Higher Secondary Certificate (HSC)** | **Shri Renuga Vidhyalayam Matric Hr.sec.School, Theni** | **2022 – 2023** | **86%** |
 | **Secondary School Leaving Certificate (SSLC)** | **Shri Renuga Vidhyalayam Matric Hr.sec.School, Thenir** | **2020 – 2021** | **86%** |
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=6,11,20,24,30"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=gradient&customColorList=12,20,24,30"/>
 </p>
-
