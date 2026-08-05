@@ -80,23 +80,7 @@ public class Sathya {
 }
 ```
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Sathya-off/Sathya-off/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTFncjZ5ZGpraWIxZWJ6eWcyOW9maHdmdXF0czVib2pmcTYxYmY2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i1JHRZSXO9LZZDHqii/giphy.gif" width="100%">
-
-</td>
-</tr>
-</table>
+https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif
 
 <h2>🧩 Coding Profiles & Problem Solving</h2>
 
