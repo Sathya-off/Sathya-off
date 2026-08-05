@@ -68,7 +68,7 @@ Technical Stacks Based On:
 
 <td align="center">
 
-<a href="hhttps://neetcode.io/user/SilentSupernova636G">
+<a href="https://neetcode.io/user/SilentSupernova636G">
 <img src="https://img.shields.io/badge/NeetCode-SATHYA RG-black?style=for-the-badge"/>
 </a>
 
