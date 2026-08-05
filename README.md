@@ -79,15 +79,32 @@ I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering*
 </table>
 
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=header"/>
 
-## 🎓 Education
+<br>
 
-| 🎓 **Degree** | 🏫 **Institution** | 📅 **Year** | 📊 **Score** |
-|:-------------|:-------------------|:-----------:|:------------:|
-| **B.E. Electronics & Communication Engineering** | **VSB Engineering College, Karur** | **2023 – Present** | **CGPA: 8.0** |
-| **Higher Secondary Certificate (HSC)** | **Shri Renuga Vidhyalayam Matric Hr.sec.School, Theni** | **2022 – 2023** | **86%** |
-| **Secondary School Leaving Certificate (SSLC)** | **Shri Renuga Vidhyalayam Matric Hr.sec.School, Thenir** | **2020 – 2021** | **86%** |
+<img width="55%"
+src="https://streak-stats.demolab.com?user=nishwapandiyan&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&stroke=22D3EE&border_radius=10"
+alt="GitHub Streak"/>
+
+<br><br>
+
+<p align="center">
+  <img height="28"
+       src="https://komarev.com/ghpvc/?username=Sathya-off&style=for-the-badge&color=22D3EE&label=VIEWS"/>
+  &nbsp;&nbsp;
+  <img height="28"
+       src="https://img.shields.io/github/followers/Sathya-off?style=for-the-badge&color=A78BFA&logo=github&label=FOLLOWERS"/>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=footer"/>
+
+</div>
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=gradient&customColorList=12,20,24,30"/>
