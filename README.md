@@ -14,10 +14,9 @@
 I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering** student with a strong passion for **Java Software Development**, **SQL**, and **Problem Solving**. I enjoy transforming ideas into practical software solutions by building clean, efficient, and user-friendly applications. I continuously strengthen my knowledge of Data Structures and Algorithms, explore modern development practices, and work on real-world projects to enhance my technical skills. With a growth mindset and a commitment to continuous learning, I'm always ready to take on new challenges, collaborate with others, and contribute to innovative software development projects. 🚀
 
 
+Check out my Profiles:
 
-                                                                              Check out my Profiles:
-
-<p align="centre">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sathya-r-5b3964316">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -38,38 +37,48 @@ Technical Stacks Based On:
 <table>
 <tr>
 <td width="55%">
-
+  
 ```java
-class Sathya:
+public class Sathya {
 
-    def __init__(self):
-        self.name = "Sathya R"
-        self.location = "Theni, Tamil Nadu, India"
-        self.degree = "B.E. Electronics & Communication Engineering"
-        self.college = "VSB Engineering College, Karur"
-        self.cgpa = "8.0"
+    String name = "Sathya R";
+    String role = "Java Full Stack Developer";
+    String location = "Theni, Tamil Nadu, India";
 
-        self.stack = [
+    String[] languages = {
             "Java",
-            "HTML",
-            "CSS",
             "JavaScript",
-            "MongoDB",
+            "HTML",
+            "CSS"
+    };
+
+    String[] tools = {
             "Git",
-            "GitHub"
-        ]
+            "GitHub",
+            "MongoDB",
+            "VS Code",
+            "IntelliJ IDEA"
+    };
 
-        self.currently_learning = [
-            "Java Full Stack",
-            "AI & LLMs",
-            "DSA"
-        ]
+    String[] learning = {
+            "Spring Boot",
+            "DSA",
+            "AI & LLMs"
+    };
 
-    def motto(self):
-        return "Code. Learn. Build. Repeat. 🚀"
+    String motto() {
+        return "Code. Learn. Build. Repeat. 🚀";
+    }
 
-me = Sathya()
-print(me.motto())
+    public static void main(String[] args) {
+        Sathya me = new Sathya();
+
+        System.out.println("👋 Hi, I'm " + me.name);
+        System.out.println("💼 Role: " + me.role);
+        System.out.println("📍 Location: " + me.location);
+        System.out.println("💡 " + me.motto());
+    }
+}
 ```
 
 <p align="center">
