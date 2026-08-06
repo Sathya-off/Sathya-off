@@ -86,17 +86,14 @@ I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering*
 <br>
 
 <img width="55%"
-src="https://streak-stats.demolab.com?user=nishwapandiyan&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&stroke=22D3EE&border_radius=10"
+src="https://streak-stats.demolab.com?user=sathya-off&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&stroke=22D3EE&border_radius=10"
 alt="GitHub Streak"/>
 
 <br><br>
 
 <p align="center">
-  <img height="28"
-       src="https://komarev.com/ghpvc/?username=Sathya-off&style=for-the-badge&color=22D3EE&label=VIEWS"/>
-  &nbsp;&nbsp;
-  <img height="28"
-       src="https://img.shields.io/github/followers/Sathya-off?style=for-the-badge&color=A78BFA&logo=github&label=FOLLOWERS"/>
+  <img src="https://komarev.com/ghpvc/?username=Sathya-off&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Sathya-off?style=for-the-badge&logo=github&label=Followers&color=8250df" alt="Followers"/>
 </p>
 
 <br>
@@ -104,6 +101,19 @@ alt="GitHub Streak"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=footer"/>
 
 </div>
+
+
+<p align="center">
+  <i>
+    "Try not to become a person of success,<br>
+    but rather try to become a person of value."
+  </i>
+</p>
+
+<p align="center">
+  <b>— Albert Einstein</b>
+</p>
+
 
 
 <p align="center">
