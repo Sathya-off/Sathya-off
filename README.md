@@ -29,7 +29,7 @@ I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering*
   </a>
 
 
-  <a href="https://www.instagram.com/sathya__off/" target="_blank">
+  <a href="https://www.instagram.com/sathya___off/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="48" />
   </a>
 </p>
