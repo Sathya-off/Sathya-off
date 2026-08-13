@@ -82,15 +82,16 @@ I'm **Sathya R G**, a final-year **B.E. Electronics & Communication Engineering*
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101F&height=10&section=header"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sathya-off&bg_color=0A101F&color=22D3EE&line=A78BFA&point=10B981&area=true&hide_border=true"
+    width="96%"
+    alt="Sathya's GitHub Contribution Graph"
+  />
 
-<br>
+</div>
 
-<img width="55%"
-src="https://streak-stats.demolab.com?user=sathya-off&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&stroke=22D3EE&border_radius=10"
-alt="GitHub Streak"/>
 
-<br><br>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sathya-off&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
